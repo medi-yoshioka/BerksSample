@@ -1,4 +1,4 @@
-ource 'https://supermarket.chef.io/'
+source 'https://supermarket.chef.io/'
 
 cookbook 'java_se', '~> 8.60.9'
 cookbook 'scala', '~> 2.1.0'
